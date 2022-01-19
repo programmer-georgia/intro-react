@@ -2,7 +2,7 @@
   "name": "gradebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://programmer-georgia.github.io/intro-react",
+  "homepage": "https://programmer-georgia.github.io",
   "dependencies": {
     "gh-pages": "^3.2.3",
     "react": "^17.0.1",
