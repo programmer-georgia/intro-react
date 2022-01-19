@@ -10,8 +10,8 @@
     "react-scripts": "^4.0.3"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -b main -d build",
+    "predeploy": "npm run public",
+    "deploy": "gh-pages -b main -d public",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
