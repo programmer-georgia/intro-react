@@ -2,6 +2,7 @@
   "name": "gradebook",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://programmer-georgia.github.io/intro-react/",
   "dependencies": {
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
@@ -11,6 +12,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "main -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
