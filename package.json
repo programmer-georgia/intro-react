@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://programmer-georgia.github.io/intro-react/",
   "dependencies": {
+    "gh-pages": "^1.1.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "^4.0.3"
